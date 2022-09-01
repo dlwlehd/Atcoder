@@ -6,4 +6,8 @@
 *.iml
 out
 gen
-!/.autocp
+
+.autocp
+textfile
+CMakeLists.txt
+cmake-build-debug
